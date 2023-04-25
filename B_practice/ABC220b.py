@@ -1,0 +1,5 @@
+n = int(input())
+a,b = map(int,input().split())
+a = int(f"{a}", n)
+b = int(f"{b}", n)
+print(a*b)

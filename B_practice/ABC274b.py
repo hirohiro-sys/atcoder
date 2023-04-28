@@ -7,3 +7,4 @@ for i in range(len(li[0])):
     if li[j][i]=="#":      
       count += 1
   print(count,end=" ")
+　
